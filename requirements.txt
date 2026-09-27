@@ -1,0 +1,10 @@
+openai
+azure-identity
+azure-cognitiveservices-speech
+azure-ai-translation-text<2
+requests
+python-dotenv
+playsound3
+azure-ai-voicelive[aiohttp]
+sounddevice
+numpy

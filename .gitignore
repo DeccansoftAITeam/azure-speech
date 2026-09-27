@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.mp3
+*.wav
+__pycache__/
+*.pyc
+.venv/
+venv/
+~$*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
